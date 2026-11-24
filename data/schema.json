@@ -1,0 +1,7 @@
+{
+  "name": "rope_segments",
+  "version": "1",
+  "description": "跨模态段落的位置、网格和版本样例。",
+  "input_file": "data/input.json",
+  "implementation": "由项目使用者根据业务契约提供"
+}

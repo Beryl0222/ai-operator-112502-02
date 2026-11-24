@@ -1,0 +1,31 @@
+{
+  "frequency_version": "v3",
+  "segments": [
+    {
+      "segment_id": "text-0",
+      "kind": "text",
+      "length": 3,
+      "position_start": 10
+    },
+    {
+      "segment_id": "image-0",
+      "kind": "image",
+      "grid": [
+        2,
+        2
+      ],
+      "position_start": 0
+    },
+    {
+      "segment_id": "retrieval-0",
+      "kind": "retrieval",
+      "length": 2,
+      "position_start": 40
+    }
+  ],
+  "packed_order": [
+    "text-0",
+    "image-0",
+    "retrieval-0"
+  ]
+}
